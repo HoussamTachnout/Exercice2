@@ -10,7 +10,8 @@ namespace Exercice2
     {
         static void Main(string[] args)
         {
-          
+            int []tab = new int[] {2,3,5,6,7};
+            //
         }
     }
 }
